@@ -8,6 +8,8 @@ This repository contains my Python projects where I explore:
 - Python programming
 - Creative ideas and experiments
 
+  These all projects are beginner-friendly.
+
 ## 🧮 Projects
 
 ### Calculator
@@ -17,5 +19,7 @@ A simple Python calculator that performs:
 - Multiplication
 - Division
 
+ ## ❤️️ Heart
+ A red heart made by using turtle (a module)
 ## 🚀 More coming soon...
 Stay curious. Stay building.
