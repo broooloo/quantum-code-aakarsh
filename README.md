@@ -1,10 +1,21 @@
-# quantum-code-aakarsh ⚡
+# Quantum Code Aakarsh ⚡
 
-Welcome to my coding space!
+Welcome to my coding universe!
 
-Here I will:
-- Learn Python 🐍
-- Build small projects 💻
-- Explore logic and problem solving 🧠
+## 🧠 About
+This repository contains my Python projects where I explore:
+- Logic and problem solving
+- Python programming
+- Creative ideas and experiments
 
-Stay tuned 🚀
+## 🧮 Projects
+
+### Calculator
+A simple Python calculator that performs:
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+## 🚀 More coming soon...
+Stay curious. Stay building.
