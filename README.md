@@ -8,18 +8,19 @@ A collection of Python projects, experiments, and learning journeys where logic 
 
 ## 🧠 About
 
-I'm Aakarsh, a Python developer passionate about programming, automation, mathematics, physics, and problem-solving.
+I'm **Aakarsh Baranwal**, a Python developer passionate about programming, automation, mathematics, physics, AI, and problem-solving.
 
-This repository contains projects that help me explore:
+This repository is my personal coding laboratory where I build projects, explore new concepts, and improve my skills through continuous learning.
+
+### Areas of Interest
 
 * 🐍 Python Programming
 * 🧩 Logic & Problem Solving
 * 🤖 AI & Automation
 * ⚛️ Physics-Based Simulations
+* 📐 Mathematics & Symbolic Computing
 * 🎮 Game Development
 * 💡 Creative Coding Experiments
-
-Every project is built with a focus on clarity, learning, and continuous improvement.
 
 ---
 
@@ -27,12 +28,39 @@ Every project is built with a focus on clarity, learning, and continuous improve
 
 ### 🧮 Aakarsh Calculator
 
-A simple calculator built in Python that supports:
+A simple Python calculator that performs:
 
 * Addition
 * Subtraction
 * Multiplication
 * Division
+
+---
+
+### 📐 Advanced Math Solver
+
+A GUI-based mathematical solver built using **Tkinter** and **SymPy**.
+
+Features:
+
+* Solve equations
+* Factor expressions
+* Expand algebraic expressions
+* Differentiate functions
+* Integrate functions
+* Simplify expressions
+* Evaluate mathematical expressions
+
+Example Commands:
+
+```text
+solve x^2-5x+6=0
+factor x^2+5x+6
+expand (x+2)^3
+differentiate x^3+2x
+integrate x^2
+simplify (x^2-1)/(x-1)
+```
 
 ---
 
@@ -50,7 +78,7 @@ Features:
 
 ### 🔐 Password Generator
 
-Generate secure and random passwords using:
+Generate strong and random passwords using:
 
 * Letters
 * Numbers
@@ -98,36 +126,40 @@ Features:
 ## 🛠 Technologies Used
 
 * Python
+* Tkinter
+* SymPy
 * Pygame
 * Turtle Graphics
 * Object-Oriented Programming (OOP)
-* Random Module
 * Command-Line Applications
+* Random Module
 
 ---
 
 ## 🎯 Goals
 
-This repository serves as my personal coding laboratory where I continuously:
+This repository serves as my learning and development journey where I continuously:
 
 * Learn new programming concepts
 * Build practical projects
-* Experiment with creative ideas
+* Explore AI and automation
 * Improve problem-solving skills
+* Create increasingly advanced software
 
 ---
 
 ## 🔮 Future Projects
 
-Coming soon:
+Coming Soon:
 
-* 🖥 GUI Applications
 * 🤖 AI-Powered Tools
 * 📊 Data Analysis Projects
 * ⚛️ Physics Simulations
 * 🌐 Web Applications
 * 🎮 Advanced Games
 * 🔄 Automation Scripts
+* 📚 Educational Math Tools
+* 🧠 Machine Learning Projects
 
 ---
 
@@ -135,7 +167,7 @@ Coming soon:
 
 **Aakarsh Baranwal**
 
-Python Developer • AI & Automation Enthusiast • Lifelong Learner
+Python Developer • AI & Automation Enthusiast • Mathematics & Physics Lover
 
 ---
 
@@ -143,10 +175,10 @@ Python Developer • AI & Automation Enthusiast • Lifelong Learner
 
 Every expert was once a beginner.
 
-This repository is a record of my learning journey, one project at a time.
+This repository is a record of my journey from learning programming fundamentals to building increasingly powerful projects.
 
 Stay curious.
 Keep building.
-Keep improving.
+Keep learning.
 
 ⚡ Small code today. Big creations tomorrow.
