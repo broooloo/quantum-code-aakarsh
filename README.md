@@ -134,7 +134,25 @@ Features:
 * Command-Line Applications
 * Random Module
 
----
+🌌 Birthday_Experience
+
+A cinematic birthday experience built with Python and Pygame.
+
+Features:
+
+* Animated starfield
+* Dynamic night-sky gradients
+* Shooting stars
+* Fireworks system
+* Background music
+* Constellation effects
+* Typewriter-style name reveal
+* Cinematic storytelling sequence
+
+Created as a personalized birthday gift and creative coding project.
+
+A combination of animation, visual effects, music, and storytelling designed to turn a simple birthday message into an interactive experience.
+---------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🎯 Goals
 
