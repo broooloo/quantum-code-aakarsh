@@ -2,7 +2,7 @@ import turtle
 
 screen = turtle.Screen()
 screen.bgcolor("black")  
-screen.title("Aakarsh's Heart ❤️")  
+screen.title("Python's Heart ❤️")  
 
 t = turtle.Turtle()
 t.speed(3)
